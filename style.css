@@ -97,7 +97,7 @@ main section{
     position: relative;
     margin-top: 138px;
     display: block;
-    width: 484px;
+    width: 600px;
     margin-left: auto;
     margin-right: auto; 
 }
@@ -114,12 +114,13 @@ main section .search-wrapper{
     border-radius: 2px;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
     height: 39px;
-    width: 468px;
+    width: 520px;
     padding-left: 16px;
     padding-top: 5px;
-    margin-top:27px;
+    margin-top: 27px;
     position: relative;
-    margin-left:6px;
+    margin-left: 14px;
+    padding-right: 48px;
 }
 
 main section .search-wrapper .search{
@@ -157,10 +158,10 @@ main section .search-wrapper .voice{
 }
 
 main section .buttons-wrapper{
-    width: 289px;
+    width: 300px;
     margin: 0 auto;
     padding-top: 21px;
-    padding-left: 15px;
+    padding-left: 11px;
 }
 
 main section .buttons-wrapper .button{
